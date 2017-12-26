@@ -232,7 +232,7 @@
   "Next": "next",
   "Back": "back",
   "Attention": "Attention",
-  "PasswordNotice":"Password: IMPORTANT! Used to decrypt your account. We don't store this password so it cannot be retrieved if you forget it."
+  "PasswordNotice":"Password: IMPORTANT! Used to decrypt your account. We don't store this password so it cannot be retrieved if you forget it.",
   "SeedNotice":"Seed: VERY IMPORTANT! Losing this means the account and any assets held are permanently lost! Write down or print it and keep it in a safe and private location. Screenshot, mobile ,mailbox is not recommended.",
   "Congrats":"To da moon!",
   "CongratsMessage":"You have created an acount. Now you are free to soar with Stellar!",
